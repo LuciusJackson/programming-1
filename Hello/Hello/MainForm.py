@@ -79,7 +79,7 @@ class MainForm(Form):
 		pass
 
 	def Button3Click(self, sender, e):
-		Application.exit
+		Application.Exit()
 
 	def Button1Click(self, sender, e):
 		self._label1.Text = "Hello, world!"
