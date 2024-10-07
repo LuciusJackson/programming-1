@@ -1,0 +1,12 @@
+C:\Users\jackson.l\Documents\SharpDevelop Projects\craig rules\craig rules\bin\Debug\craig rules.exe.config
+C:\Users\jackson.l\Documents\SharpDevelop Projects\craig rules\craig rules\bin\Debug\craig rules.exe
+C:\Users\jackson.l\Documents\SharpDevelop Projects\craig rules\craig rules\bin\Debug\craig rules.dll
+C:\Users\jackson.l\Documents\SharpDevelop Projects\craig rules\craig rules\bin\Debug\IronPython.dll
+C:\Users\jackson.l\Documents\SharpDevelop Projects\craig rules\craig rules\bin\Debug\IronPython.Modules.dll
+C:\Users\jackson.l\Documents\SharpDevelop Projects\craig rules\craig rules\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\jackson.l\Documents\SharpDevelop Projects\craig rules\craig rules\bin\Debug\Microsoft.Scripting.dll
+C:\Users\jackson.l\Documents\SharpDevelop Projects\craig rules\craig rules\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\jackson.l\Documents\SharpDevelop Projects\craig rules\craig rules\obj\Debug\craig rules.pyprojResolveAssemblyReference.cache
+C:\Users\jackson.l\Documents\SharpDevelop Projects\craig rules\craig rules\obj\Debug\craig_rules.MainForm.resources
+C:\Users\jackson.l\Documents\SharpDevelop Projects\craig rules\craig rules\obj\Debug\craig rules.pyproj.GenerateResource.Cache
+C:\Users\jackson.l\Documents\SharpDevelop Projects\craig rules\craig rules\obj\Debug\craig rules.exe
